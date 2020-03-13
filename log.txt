@@ -1,0 +1,2 @@
+Contains log of all additions
+done in this local machine
